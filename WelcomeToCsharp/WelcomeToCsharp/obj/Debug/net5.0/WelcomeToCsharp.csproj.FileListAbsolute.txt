@@ -1,0 +1,16 @@
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\net5.0\WelcomeToCsharp.exe
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\net5.0\WelcomeToCsharp.deps.json
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\net5.0\WelcomeToCsharp.runtimeconfig.json
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\net5.0\WelcomeToCsharp.runtimeconfig.dev.json
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\net5.0\WelcomeToCsharp.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\net5.0\ref\WelcomeToCsharp.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\net5.0\WelcomeToCsharp.pdb
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\net5.0\WelcomeToCsharp.csproj.AssemblyReference.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\net5.0\WelcomeToCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\net5.0\WelcomeToCsharp.AssemblyInfoInputs.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\net5.0\WelcomeToCsharp.AssemblyInfo.cs
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\net5.0\WelcomeToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\net5.0\WelcomeToCsharp.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\net5.0\ref\WelcomeToCsharp.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\net5.0\WelcomeToCsharp.pdb
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\net5.0\WelcomeToCsharp.genruntimeconfig.cache
