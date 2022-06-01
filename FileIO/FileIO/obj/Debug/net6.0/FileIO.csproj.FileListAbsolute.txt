@@ -1,0 +1,15 @@
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\bin\Debug\net6.0\FileIO.exe
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\bin\Debug\net6.0\FileIO.deps.json
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\bin\Debug\net6.0\FileIO.runtimeconfig.json
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\bin\Debug\net6.0\FileIO.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\bin\Debug\net6.0\FileIO.pdb
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\FileIO.csproj.AssemblyReference.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\FileIO.AssemblyInfoInputs.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\FileIO.AssemblyInfo.cs
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\FileIO.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\refint\FileIO.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\FileIO.pdb
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\FileIO.genruntimeconfig.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\FileIO\FileIO\obj\Debug\net6.0\ref\FileIO.dll
