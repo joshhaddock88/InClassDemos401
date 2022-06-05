@@ -1,0 +1,15 @@
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\bin\Debug\net6.0\ClassesDemo.exe
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\bin\Debug\net6.0\ClassesDemo.deps.json
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\bin\Debug\net6.0\ClassesDemo.runtimeconfig.json
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\bin\Debug\net6.0\ClassesDemo.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\bin\Debug\net6.0\ClassesDemo.pdb
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\ClassesDemo.csproj.AssemblyReference.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\ClassesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\ClassesDemo.AssemblyInfoInputs.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\ClassesDemo.AssemblyInfo.cs
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\ClassesDemo.csproj.CoreCompileInputs.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\ClassesDemo.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\refint\ClassesDemo.dll
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\ClassesDemo.pdb
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\ClassesDemo.genruntimeconfig.cache
+C:\Users\joshh\Desktop\coding\401Redux\InClassDemos\ClassesDemo\ClassesDemo\obj\Debug\net6.0\ref\ClassesDemo.dll
